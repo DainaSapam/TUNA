@@ -1,1 +1,1 @@
-This is a second text for git tuto.
+This is a second text for git tuto. Changes in second
