@@ -1,2 +1,1 @@
-This is a text file for git tutorial. And this is the first commit.
-Some changes in first.
+Bla bla bla to you first
